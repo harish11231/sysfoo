@@ -1,12 +1,12 @@
 <!DOCTYPE HTML>
 <!--
 	Dimension by HTML5 UP
-	html5up.net | @harish11231
+	html5up.net | @harish112315656
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
 	<head>
-		<title>Sysfoo Demo App by School of Devops done by harish11231</title>
+		<title>Sysfoo Demo App by School of Devops done by harish11231@gmail.com</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
